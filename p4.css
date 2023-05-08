@@ -1,0 +1,43 @@
+.train{
+    padding:8px 20px;
+    border:solid black 2px;
+  }
+  body{
+	background-image: url("https://st3.depositphotos.com/2523411/19161/i/450/depositphotos_191611422-stock-photo-long-freight-train.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover;
+	position:relative;
+}
+.previous {
+  margin-top: 3%;
+  background-color: dodgerblue;
+  color: black;
+  border:none;
+  color:white;
+  padding:8px 16px;
+  text-decoration: none;
+  margin:4px 2px;
+  cursor:pointer;
+  font-size:large;
+  
+}
+form{
+  margin-top:10%;
+  margin-left:25%;
+  width:50%;
+  
+}
+.booking {
+  background-color: dodgerblue;
+  color: black;
+  border:none;
+  color:white;
+  padding:8px 16px;
+  text-decoration: none;
+  margin:4px 2px;
+  cursor:pointer;
+  margin-left:80%;
+  font-size:large;
+}
+    

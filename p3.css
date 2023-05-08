@@ -1,0 +1,41 @@
+body{
+	background-image: url("https://www.rd.com/wp-content/uploads/sites/2/2017/10/Why-Are-Commercial-Airplanes-White-_493536652-Jag_cz.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover;
+        
+}
+            .previous {
+  margin-top: 3%;
+  background-color: dodgerblue;
+  color: black;
+  border:none;
+  color:white;
+  padding:8px 16px;
+  text-decoration: none;
+  margin:4px 2px;
+  cursor:pointer;
+  font-size:large;
+  
+}
+form{
+  margin-top:10%;
+  margin-left:25%;
+  width:50%;
+  
+}
+.booking {
+  background-color: dodgerblue;
+  color: black;
+  border:none;
+  color:white;
+  padding:8px 16px;
+  text-decoration: none;
+  margin:4px 2px;
+  cursor:pointer;
+  margin-left:43%;
+  font-size:large;
+}
+.train{
+    padding:8px 20px;
+  }
